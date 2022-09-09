@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medieval_War", "Medieval_War\Medieval_War.csproj", "{725A8A37-6555-46D7-AC72-2F87991AE25B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725A8A37-6555-46D7-AC72-2F87991AE25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725A8A37-6555-46D7-AC72-2F87991AE25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725A8A37-6555-46D7-AC72-2F87991AE25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725A8A37-6555-46D7-AC72-2F87991AE25B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B9CBF3A-8EA5-4BC2-A39B-81187D418E40}
+	EndGlobalSection
+EndGlobal
